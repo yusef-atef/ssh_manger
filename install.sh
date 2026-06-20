@@ -10,8 +10,8 @@ fi
 echo "Installing FirewallFalcon Manager..."
 
 # URLs (IPv4 forced to avoid GitHub IPv6 issues)
-MENU_URL="https://github.com/yusef-atef/ssh_manger/blob/main/menu.sh"
-SSHD_URL="https://github.com/yusef-atef/ssh_manger/blob/main/ssh"
+MENU_URL="https://raw.githubusercontent.com/yusef-atef/ssh_manger/main/menu.sh"
+SSHD_URL="https://raw.githubusercontent.com/yusef-atef/ssh_manger/main/ssh"
 
 # Helper to download files (supports both curl and wget)
 download_file() {
