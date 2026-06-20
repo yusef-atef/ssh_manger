@@ -29,7 +29,7 @@ It takes less than a minute to deploy the complete FirewallFalcon Manager on you
 
 ### Primary Method (Recommended)
 ```bash
-bash <(curl -Ls https://codeberg.org/firewallfalcons/FirewallFalcon-Manager/raw/branch/main/install.sh)
+bash <(curl -Ls https://github.com/yusef-atef/ssh_manger/blob/main/install.sh)
 ```
 
 *(Once installed, simply type `menu` in your terminal to launch the interface!)*
